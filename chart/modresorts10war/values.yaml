@@ -15,7 +15,7 @@
 ## Common image variables
 ###############################################################################
 image:
-  repository: "mycluster.icp:8500/default/modresorts10war"
+  repository: "http://mycluster.icp:8500/microclimate-workspace/modresorts10war"
   tag: latest
   pullPolicy: IfNotPresent
   license: ""
