@@ -15,7 +15,7 @@
 ## Common image variables
 ###############################################################################
 image:
-  repository: ""
+  repository: "mycluster.icp:8500/default/modresorts10war"
   tag: latest
   pullPolicy: IfNotPresent
   license: ""
