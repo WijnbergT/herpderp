@@ -29,7 +29,7 @@ spec:
         app: modresorts10war
     spec:
       containers:
-      - image: mycluster.icp:8500/default/modresorts10war:latest
+      - image: mycluster.icp:8500/microclimate-workspace/modresorts10war:latest
         name: modresorts10war
         env:
           - name: WLP_LOGGING_CONSOLE_FORMAT
